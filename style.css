@@ -1,0 +1,30 @@
+/* Selector {
+    Property:value;
+} */
+
+body{
+    background-image: url(background.jpg);
+    background-size:cover;
+    background-position:cover;
+}
+h2{
+    color:black;
+text-align: center;
+border: 5px groove black;
+cursor:not-allowed;
+}
+p{
+    color: black;}
+
+p{
+    color: black;}
+    
+    
+li{
+    list-style:none;
+    display: inline-block;
+    color:red;
+}
+
+
+    
